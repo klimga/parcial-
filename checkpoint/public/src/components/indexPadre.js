@@ -1,0 +1,1 @@
+export {default as customCard} from './Customcard/customCard.js'
